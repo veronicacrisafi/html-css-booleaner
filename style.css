@@ -1,7 +1,13 @@
 header {
     background-color: cornflowerblue;
+
 }
 
 #autore {
     color: grey;
+}
+
+#data-pubblicazione {
+    color: grey;
+
 }
