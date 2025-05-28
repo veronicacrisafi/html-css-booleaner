@@ -18,6 +18,16 @@ header {
 }
 
 #data-pubblicazione {
+    font-size: 10px
+}
+
+.photo {
+
+    font-size: 12px;
+
+}
+
+#data-pubblicazione {
     color: grey;
 
 }
