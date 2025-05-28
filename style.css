@@ -1,7 +1,16 @@
 header {
+    background-image: url(./img/pattern.png);
     background-color: cornflowerblue;
+    background-size: 100;
+
 
 }
+
+#The-Booleaner {
+    width: 50%;
+    text-align: left;
+}
+
 
 #autore {
     color: grey;
