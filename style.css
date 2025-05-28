@@ -1,14 +1,15 @@
 header {
     background-image: url(./img/pattern.png);
     background-color: cornflowerblue;
-    background-size: 100;
+    background-size: 370px;
 
 
 }
 
 #The-Booleaner {
-    width: 50%;
+    width: 240px;
     text-align: left;
+    padding-top: 30px;
 }
 
 
