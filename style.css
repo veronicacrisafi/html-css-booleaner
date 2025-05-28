@@ -81,3 +81,7 @@ thead {
     text-align: left;
     font-weight: normal;
 }
+
+body {
+    margin: 0px;
+}
