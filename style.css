@@ -48,3 +48,36 @@ thead {
 #info-approfondimento {
     color: grey;
 }
+
+.img-monitor {
+    background-image: url(./img/monitor.jpg);
+    margin: 0px;
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 150px;
+}
+
+
+#monitor {
+    color: white;
+    margin: 10px;
+    font-size: 140%;
+    text-align: left;
+    font-weight: normal;
+}
+
+.img-graph {
+    background-image: url(./img/graph.jpg);
+    margin: 0px;
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 150px;
+}
+
+#graph {
+    color: white;
+    margin: 10px;
+    font-size: 140%;
+    text-align: left;
+    font-weight: normal;
+}
