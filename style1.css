@@ -13,12 +13,9 @@ header {
 }
 
 
-#autore {
+.autore {
     color: grey;
-}
 
-#data-pubblicazione {
-    font-size: 13px
 }
 
 .photo {
