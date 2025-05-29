@@ -1,0 +1,87 @@
+header {
+    background-image: url(./img/pattern.png);
+    background-color: cornflowerblue;
+    background-size: 370px;
+
+
+}
+
+#The-Booleaner {
+    width: 240px;
+    text-align: left;
+    padding-top: 30px;
+}
+
+
+#autore {
+    color: grey;
+}
+
+#data-pubblicazione {
+    font-size: 13px
+}
+
+.photo {
+
+    font-size: 12px;
+
+}
+
+#data-pubblicazione {
+    color: grey;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {
+    background-color: cornflowerblue;
+
+}
+
+.Lorem {
+    background-color: lightblue;
+}
+
+#info-approfondimento {
+    color: grey;
+}
+
+.img-monitor {
+    background-image: url(./img/monitor.jpg);
+    margin: 0px;
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 150px;
+}
+
+
+#monitor {
+    color: white;
+    margin: 10px;
+    font-size: 140%;
+    text-align: left;
+    font-weight: normal;
+}
+
+.img-graph {
+    background-image: url(./img/graph.jpg);
+    margin: 0px;
+    background-repeat: no-repeat;
+    width: 240px;
+    height: 150px;
+}
+
+#graph {
+    color: white;
+    margin: 10px;
+    font-size: 140%;
+    text-align: left;
+    font-weight: normal;
+}
+
+body {
+    margin: 0px;
+}
