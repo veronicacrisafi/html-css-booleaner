@@ -10,9 +10,10 @@ header {
     width: 240px;
     text-align: left;
     padding-top: 30px;
-    margin-left: 135px;
+    margin-left: 185px;
 }
 
-h1 {
-    text-align: center;
+.container {
+    padding-left: 190px;
+    padding-right: 190px;
 }
